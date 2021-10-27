@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/VerilogLintGUI">
+        <file>Resource/icon.png</file>
+        <file>Resource/icon-32px.ico</file>
+        <file>Resource/icon-64px.ico</file>
+    </qresource>
+</RCC>
