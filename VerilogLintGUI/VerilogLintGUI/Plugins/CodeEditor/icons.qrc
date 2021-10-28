@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>editor.png</file>
+
+    </qresource>
+</RCC>

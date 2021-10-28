@@ -348,3 +348,5 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+VerilogLintGUI/VerilogLintGUI/Plugins/build-CodeEditor-Desktop_Qt_5_14_1_MSVC2017_32bit-Release/
+VerilogLintGUI/VerilogLintGUI/ThirdPart/
